@@ -25,3 +25,9 @@ C:\Users\cabeo\Desktop\Api\obj\Debug\net6.0\Api.dll
 C:\Users\cabeo\Desktop\Api\obj\Debug\net6.0\ref\Api.dll
 C:\Users\cabeo\Desktop\Api\obj\Debug\net6.0\Api.pdb
 C:\Users\cabeo\Desktop\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+C:\Users\cabeo\Desktop\Api\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\cabeo\Desktop\Api\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\cabeo\Desktop\Api\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\cabeo\Desktop\Api\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\cabeo\Desktop\Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cabeo\Desktop\Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
