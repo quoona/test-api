@@ -9,8 +9,6 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-bin
-obj
 ./bin/
 ./bin/Debug/
 ./bin/Debug/net6.0/
