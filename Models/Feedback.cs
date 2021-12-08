@@ -1,5 +1,7 @@
 namespace API.Models
 {
+    //QN da chuyen du lieu sang model cua FeedBack.Data.Models, du lieu thi nam o feedbackrepository nhe
+
     // public class Feedback
     // {
     //     public static List<Feedback> FeedbackList = new List<Feedback>() {
