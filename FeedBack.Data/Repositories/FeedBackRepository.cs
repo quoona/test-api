@@ -7,9 +7,9 @@ namespace test_api.FeedBack.Data.Repositories
     {
 
         public List<Feedback> FeedbackList = new List<Feedback>() {
-            new Feedback() {Name = "CongMinh", Role = "Food Specialist", Comment = "Sound Good"},
-            new Feedback() {Name = "QuocNam", Role = "Food Specialist", Comment = "Really Good"},
-            new Feedback() {Name = "PhuongBinh", Role = "Food Specialist", Comment = "Delicious"},
+            new Feedback(){Name = "CongMinh", Role = "Food Specialist", Img = "img/testimonials/1.jpg",  Comment = "Sound Good"},
+            new Feedback(){Name = "QuocNam", Role = "Food Specialist", Img = "img/testimonials/2.jpg", Comment = "Really Good"},
+            new Feedback(){Name = "PhuongBinh", Role = "Food Specialist", Img = "img/testimonials/3.jpg", Comment = "Delicious"},
         };
 
         public List<Feedback> GetAllFeedBack()

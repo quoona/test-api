@@ -6,5 +6,6 @@ namespace FeedBack.Data.Models
         public string? Name { get; set; }
         public string? Role { get; set; }
         public string? Comment { get; set; }
+        public string? Img { get; set; }
     }
 }

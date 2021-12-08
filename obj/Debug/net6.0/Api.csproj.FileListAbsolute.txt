@@ -52,3 +52,9 @@ D:\Project-C#\test-api\obj\Debug\net6.0\Api.dll
 D:\Project-C#\test-api\obj\Debug\net6.0\ref\Api.dll
 D:\Project-C#\test-api\obj\Debug\net6.0\Api.pdb
 D:\Project-C#\test-api\obj\Debug\net6.0\Api.genruntimeconfig.cache
+D:\Project-C#\test-api\bin\Debug\net6.0\System.Web.Cors.dll
+D:\Project-C#\test-api\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Project-C#\test-api\bin\Debug\net6.0\System.Web.Http.dll
+D:\Project-C#\test-api\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\Project-C#\test-api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project-C#\test-api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
