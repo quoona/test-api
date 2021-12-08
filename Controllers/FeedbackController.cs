@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using API.Models;
 using Microsoft.AspNetCore.Cors;
+using test_api.FeedBack.Data.Repositories;
+using FeedBack.Data.Models;
 
 namespace Api.Controllers
 {
@@ -9,12 +11,12 @@ namespace Api.Controllers
 
     public class FeedbackController : ControllerBase
     {
-
+        private readonly FeedBackRepository _feedbackRepository = new FeedBackRepository();
         [Route("[controller]")]
         [HttpGet]
         public IEnumerable<Feedback> Get()
         {
-            return Feedback.FeedbackList;
+            return _feedbackRepository.GetAllFeedBack();
         }
     }
 }
